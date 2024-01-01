@@ -1,6 +1,6 @@
 # selenium-projects-suite
 
-Is a set of projects built on Python and Selenium to automate activities on a browser. Some of the projects also use Beautiful Soup Web Scraping as well.
+This repository is a set of projects built on Python and Selenium to automate activities on a browser. Some of the projects also use Beautiful Soup Web Scraping as well.
 
 Selenium is a library used to automate browser activities. It is used to test web applications and automate repetitive tasks. It's available on a lot of code platforms other than Python as well/
 
